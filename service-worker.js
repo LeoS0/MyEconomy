@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.a43a1c3144c03450327eb87ec44fd71f.js"
+  "/MyEconomy/precache-manifest.53f5aac72f551590c4ea2f21963bc59d.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "my-economy"});
